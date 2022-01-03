@@ -1,3 +1,3 @@
 # simple_python_project
-### i used Dango framework in this code
-### if you want to run this code you must use virtual environment
+### I used Dango framework in this code
+### If you want to run this code you must use virtual environment
